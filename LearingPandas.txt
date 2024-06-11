@@ -1,0 +1,16 @@
+Summarizing methods: describe , mean, mode,value_counts,unique
+map method: df.coloumn_name.map can be used to transform each value in ccolumn 
+aplly method: df.apply used to transform rows in a data frame 
+df.loc : used to create a dataframe by specifying the rows
+df.groupby('coloumn_name') creates a dataframe of dataframes :) matlab it groups the data with similar value in coloumn_name
+df.coloumn_name.replace('a','b') replace all occurences of 'a' in coloumn_name with 'b' and returns a series
+pd.concat : used to join  multiple dataframes just adds the rows or columns  of one into another
+df.join(other): joins df and other based on index that is if a row in df and other have same index then they will be joined while combining
+df.sort_values(by='coloumn_name',ascending = True/False) returns a df sorted based upon values in coloumn_name
+df.sort_index() returns a df sorted based upon index values
+df.set_index() used to set the index of a dataframe
+df.rename({column_name: new_name }) used to rename columns
+df.rename_axis : used to renmae axsis
+df.column_name.fillna('subs') replace NaN values with 'subs' in the column
+df.columns1 +/&/* df.column2 : creates a new series which is a addition of columns1 and columns2
+
