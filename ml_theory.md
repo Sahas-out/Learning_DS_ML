@@ -43,4 +43,4 @@ Consider a supermarket transaction dataset. Association rule learning can identi
 Reinforcement learning operates on a different principle compared to supervised and unsupervised learning. Instead of learning from labeled or unlabeled data, it learns from interactions with an environment to achieve a goal. It can be likened to how humans learn through trial and error, receiving feedback from the environment based on their actions.
 
 In reinforcement learning, an agent learns to make decisions by acting in an environment and receiving feedback through rewards or penalties
-Reinforcement learning works similarly in more complex situations, like teaching AI systems to play games or control robots. The AI learns by trial and error, figuring out which actions lead to the best outcomes based on the rewards it receives from its environment.
+Reinforcement learning works similarly in more complex situations, like teaching AI systems to play games or control robots. The AI learns by trial and error, figuring out which actions lead to the best outcomes based on the rewards it receives from its environment
